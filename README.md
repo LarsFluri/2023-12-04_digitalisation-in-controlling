@@ -2,13 +2,18 @@
 
 
 ## Über das Projekt
-Dieses Github Repository enthält alle Unterlagen zur Vorlesung "Die Digitalisierung des Controllings und Kompetenzfelder der Wirtschaftsinformatik"
+Dieses Github Repository enthält alle Unterlagen zur Vorlesung "Die Digitalisierung des Controllings und Kompetenzfelder der Wirtschaftsinformatik".
+
+Die Vorlesung bietet einen Einblick in drei Themen:
+- Predictive Forecasting / Supervised Learning
+- Fraud Detection / eDiscovery
+- Clustering / Unsupervised Learning
 
 
 ## Voraussetzungen
-Python 3.x
-Jupyter Notebook
-Visual Studio Code (VS Code)
+- Python 3.x
+- Jupyter Notebook
+- Visual Studio Code (VS Code)
 ## Installation
 - Installieren Sie Python, falls noch nicht geschehen: https://www.python.org/downloads/
 - Laden Sie Visual Studio Code herunter und installieren Sie es: https://code.visualstudio.com/download
