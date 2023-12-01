@@ -20,7 +20,7 @@ Die Vorlesung bietet einen Einblick in drei Themen:
 
 ## Jupyter Notebook in VS Code verwenden
 - Öffnen Sie VS Code.
-- Installieren Sie die Jupyter-Erweiterung für VS Code über den Erweiterungsmarkt.
+- Installieren Sie die Jupyter-Extension für VS Code.
 - Öffnen Sie Ihr Projektverzeichnis in VS Code.
 - Öffnen Sie die bereitgestellten Jupyter Notebooks. 
 
